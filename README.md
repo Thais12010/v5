@@ -17,8 +17,8 @@ Requirements:
   post-pass. Use `--no-lua-expert` for a fully local run.
 
 ```bash
-git clone https://github.com/binxgtl/luau-vmp-deobf.git
-cd luau-vmp-deobf
+git clone https://github.com/Thais12010/v5
+cd v5
 python -m pip install -e .
 
 luauvmp --help
